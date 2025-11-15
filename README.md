@@ -1,6 +1,6 @@
 # CogDog Splot HTML
 
-A WordPress plugin that enables embedding full HTML documents (with `<head>` and `<body>` tags) into posts by automatically detecting pasted HTML and converting it to a safely sandboxed iframe.
+A WordPress plugin that enables embedding full HTML documents (with `<head>` and `<body>` tags) into posts by automatically detecting pasted HTML and converting it to a sandboxed iframe.
 
 ## Description
 
